@@ -1,0 +1,43 @@
+[AI Product/Service Prototyping for Small Businesses. (Solo Project)]
+
+
+Identify Real World Business Markets where Al can be applied and come up with sellable Al Product/Service ideas.
+Develop an abstract Product Design.
+Prepare a detailed report on how you will implement it based on touchpoints listed below.
+Description
+Basically this a Product Ideation task, Interns have to come up with a Business Ides which will primarily use Data Science, Machine Learning & Artificial Intelligence to solve business problems and prepare a report on the abstract prototype/business model. (You don't need to develop the actual Product)
+You can cover industries like tourism, agriculture, education, supply chain, import/export, medical etc. By Small/Medium Businesses we mean startups, single person companies, small community shop chains, local food chains etc. (Try to avoid how big corporate use ML/DS like Google, Microsoft, Amazon etc). In Feynn Labe we try to help mostly small/medium business operations with help of ML/DS
+This is a solo project, so each intern has to come up with their own business idee. Interns can prepare the report on existing product/service ideas but the Report & Implementation need to be unique
+
+
+Touchpoints to be included in the Project Report
+
+Imp - Important
+[
+0. Title of Paper along with your name
+1. (Imp) Problem Statement
+2. (Imp) Market/Customer/Business Need Assessment
+3. Target Specifications and Characterization (your customer characteristic)
+4. External Search (online information sources/references/links)
+5. Bench marking alternate products (comparison with existing products/services)
+6. Applicable Patents (Patent of Tech/Software/Framework etc you are going to use in your Product/Service idea)
+7. Applicable Regulations (government and environmental regulations imposed by countries)
+8. Applicable Constraints (need for space, budget, expertise)
+9. (Imp) Business Model (Monetization Idea)
+10. Concept Generation (process of coming up with Idea)
+11. Concept Development (Brief summary of Product/Service will be developed)
+12. (Very Imp) Final Product Prototype (abstract) with Schematic Diagram
+13. Product details
+            - How does it work?
+            - Data Sources 
+            - Algorithms, frameworks, software etc. needed
+            - Team required to develop.
+            - What does it cost? etc
+14. Code Implementation/Validation on Small Scale (Optional - Bonus Grades)
+          What can be included?
+           - Some Basic Visualizations on Real World or Augmented Data
+           - Simple EDA
+           - ML Modelling 
+           - Github link to the code implementation
+15. Conclusion
+]
